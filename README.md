@@ -31,6 +31,7 @@ Inorder: Left-Root-Right traversal: 4 2 5 1 6 3 7
 Postorder: Left-Right-Root traversal: 4 5 2 6 7 3 1
 
 **Libraries Used:**
+
 Java Swing for GUI components.
 
 JFreeChart for utility functions.
