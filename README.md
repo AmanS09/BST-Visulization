@@ -23,6 +23,7 @@ The height of the BST is shown at the top of the GUI.
 **Traversal Details:**
 
 example:-
+
 Preorder: Root-Left-Right traversal: 1 2 4 5 3 6 7
 
 Inorder: Left-Root-Right traversal: 4 2 5 1 6 3 7
